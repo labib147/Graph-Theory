@@ -3,7 +3,11 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+<<<<<<< HEAD
   "scripts": {    
+=======
+  "scripts": {
+>>>>>>> 7d240f4a9e62f575b5c922315b6bd8af5294a73b
     "codegen": "graph codegen ./subgraph.yaml",
     "build": "graph build ./subgraph.yaml",
     "deploy": "graph deploy --product hosted-service --node https://api.thegraph.com/deploy/ --ipfs https://api.thegraph.com/ipfs/ labib147/gravatar-subgraph ./subgraph.yaml --access-token",
@@ -22,4 +26,7 @@
     "typescript": "^4.6.2"
   }
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7d240f4a9e62f575b5c922315b6bd8af5294a73b

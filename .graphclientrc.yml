@@ -3,4 +3,8 @@ sources:
   - name: gravatar
     handler:
       graphql:
+<<<<<<< HEAD
         endpoint: http://localhost:8000/subgraphs/name/labib147/gravatar-subgraph
+=======
+        endpoint: http://localhost:8000/subgraphs/name/mohaiminuleraj/gravatar-subgraph
+>>>>>>> 7d240f4a9e62f575b5c922315b6bd8af5294a73b

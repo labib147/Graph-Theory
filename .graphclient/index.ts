@@ -1,7 +1,11 @@
 // @ts-nocheck
 import { GraphQLResolveInfo, GraphQLScalarType, GraphQLScalarTypeConfig } from 'graphql';
 import { GraphQLSchema, ExecutionResult } from 'graphql';
+<<<<<<< HEAD
 
+=======
+import { DocumentNode } from 'graphql';
+>>>>>>> 7d240f4a9e62f575b5c922315b6bd8af5294a73b
 import { compileQuery, isCompiledQuery, CompilerOptions } from 'graphql-jit';
 import { AggregateError, isAsyncIterable, mapAsyncIterator } from '@graphql-tools/utils';
 export type Maybe<T> = T | null;
