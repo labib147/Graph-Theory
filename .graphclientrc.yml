@@ -1,0 +1,6 @@
+# .graphclientrc.yml
+sources:
+  - name: gravatar
+    handler:
+      graphql:
+        endpoint: http://localhost:8000/subgraphs/name/labib147/gravatar-subgraph
