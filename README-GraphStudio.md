@@ -29,6 +29,12 @@ After this you can watch this 30 min video that explains the entire process step
 
 The project might throw an error in the end because of the version of the dependencies. So, be sure to update the graph-cli & graph-ts to their latest versions.
 ```
+    npm i @graphprotocol/graph-cli@latest or npm i -D @graphprotocol/graph-cli@latest 
+    npm i @graphprotocol/graph-ts@latest or  npm i -D @graphprotocol/graph-ts@latest
+    npm i @graphprotocol/graph-ts@latest
+```
+Afther updating the package.json file should show the following devDependencies:
+```
     "@graphprotocol/graph-cli": "^0.29.0",
     "@graphprotocol/graph-ts": "^0.26.0",    
     "typescript": "^4.6.2"
