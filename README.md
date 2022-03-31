@@ -27,14 +27,9 @@ After running the final command, you should get the following output `v16.14.2`
 
 After this you can watch this 30 min video that explains the entire process step by step: https://www.youtube.com/watch?v=jxhNsSicEzA
 
-Create a folder where you want to create your project. Open VS code in the folder. Go to terminal and type the following command
+The project might throw an error in the end because of the version of the dependencies. So, be sure to update the graph-cli & graph-ts to their latest versions.
 
-`npm init -y`
 
-This creates a `package.jason` file which initializes all dependecnies by default and you can modify those further as per your requirements.
-
-Afther than we need ABI of the token we are trying to extract data from. We are doing "USDT" for this example. We can go to the Etherscan website, find USDT token, go to its "Contract" and copy the ABI. 
-Now create a folder in your own project, name it 'abi', create a file in that folder "USDT.json". Then paste the ABI in there and save the file.
 
 
 
