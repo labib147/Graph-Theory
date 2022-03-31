@@ -11,5 +11,7 @@ Go to Git of Graph protocol: https://github.com/graphprotocol Find graph client 
 1. `sudo apt install nodejs`
 2. `sudo apt update`
 3. `curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -`
-4. `sudo apt install -y nodejs
+4. `sudo apt install -y nodejs`
 5. `node -v`
+
+After running the final command, you should get the following output `v16.14.2`
