@@ -34,7 +34,7 @@ graph codegen ./token.yaml  (Generates a schema.ts file)
 
 Use `npm run codegen` or `yarn run codegen` to run codegen
 
-`yarn run deploy *paste your access token here*`
+- `yarn run deploy *paste your access token here*`
 
 
 
