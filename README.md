@@ -32,3 +32,9 @@ Create a folder where you want to create your project. Open VS code in the folde
 `npm init -y`
 
 This creates a `package.jason` file which initializes all dependecnies by default and you can modify those further as per your requirements.
+
+Afther than we need ABI of the token we are trying to extract data from. We are doing "USDT" for this example. We can go to the Etherscan website, find USDT token, go to its "Contract" and copy the ABI. 
+Now create a folder in your own project, name it 'abi', create a file in that folder "USDT.json". Then paste the ABI in there and save the file.
+
+
+
