@@ -8,8 +8,8 @@ Go to Git of Graph protocol: https://github.com/graphprotocol Find graph client 
 2. NPM
 
 ### Installation of node - 
-$ `sudo apt install nodejs`
-$ `sudo apt update`
-$ `curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -`
-$ `sudo apt install -y nodejs
-$ `node -v`
+1. `sudo apt install nodejs`
+2. `sudo apt update`
+3. `curl -sL https://deb.nodesource.com/setup_16.x | sudo bash -`
+4. `sudo apt install -y nodejs
+5. `node -v`
