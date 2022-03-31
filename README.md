@@ -17,3 +17,10 @@ Find graph client folder and go through the installation process: https://github
 5. `node -v`
 
 After running the final command, you should get the following output `v16.14.2`
+
+### Installation of npm -
+
+1. `sudo npm install -g npm@latest`
+2.  `npm -v` 
+3.  This should show an output as follows `8.5.0`
+4.  If this does not update to your required version, then try `sudo npm install -g npm@8.5.0`
