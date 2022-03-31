@@ -24,3 +24,11 @@ After running the final command, you should get the following output `v16.14.2`
 2.  `npm -v` 
 3.  This should show an output as follows `8.5.0`
 4.  If this does not update to your required version, then try `sudo npm install -g npm@8.5.0`
+
+After this you can watch this 30 min video that explains the entire process step by step: https://www.youtube.com/watch?v=jxhNsSicEzA
+
+Create a folder where you want to create your project. Open VS code in the folder. Go to terminal and type the following command
+
+`npm init -y`
+
+This creates a `package.jason` file which initializes all dependecnies by default and you can modify those further as per your requirements.
