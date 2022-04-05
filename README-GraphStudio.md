@@ -43,6 +43,8 @@ Afther updating the package.json file should show the following devDependencies:
 Install graph-cli in your package.json file 
 `graph codegen ./token.yaml`  (Generates a schema.ts file)
 
+`npm install`
+
 Use `npm run codegen` or `yarn run codegen` to run codegen
 
 - `yarn run deploy *paste your access token here*`
