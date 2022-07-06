@@ -1,5 +1,6 @@
 # Graph-Theory
 ![Typescript][typescript-badge]
+
 Graph ql documentation for showing data in Graph Studio (Linux)
 
 Go to Git of Graph protocol: https://github.com/graphprotocol 
