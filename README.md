@@ -1,6 +1,6 @@
 # Graph-Theory
 
-![Typescript][typescript-badge]
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 
 Graph ql documentation for showing data in Graph Studio (Linux)
 
