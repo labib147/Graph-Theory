@@ -1,4 +1,5 @@
 # Graph-Theory
+
 ![Typescript][typescript-badge]
 
 Graph ql documentation for showing data in Graph Studio (Linux)
