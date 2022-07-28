@@ -19,6 +19,8 @@ Find graph client folder and go through the installation process: https://github
 4. `sudo apt install -y nodejs`
 5. `node -v`
 
+Check this for help: https://www.freecodecamp.org/news/how-to-install-node-js-on-ubuntu-and-update-npm-to-the-latest-version/#:~:text=If%20you%20run%20into%20any,command%20above%20to%20update%20it.&text=sudo%20apt%20install%20build%2Dessential,NPM%20on%20your%20Ubuntu%20machine.
+
 After running the final command, you should get the following output `v16.14.2`
 
 ### Installation of npm -
