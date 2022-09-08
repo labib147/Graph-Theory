@@ -1,5 +1,7 @@
 # Graph-Theory
 
+Hosted Subgraph Link: https://thegraph.com/hosted-service/subgraph/labib147/usdt-transaction
+
 ![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 
 Graph ql documentation for showing data in Graph Studio (Linux)
